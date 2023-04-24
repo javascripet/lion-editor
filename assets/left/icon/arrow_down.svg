@@ -1,0 +1,9 @@
+<svg width="34" height="34" xmlns="http://www.w3.org/2000/svg" fill="none">
+
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(-180 17 16.9999)" stroke="null" id="Arrow">
+   <path stroke="null" fill="#B9B9B9" d="m22.436,19.2273l-5.0513,-5.8212c-0.2126,-0.2453 -0.5561,-0.2453 -0.7693,0l-5.0513,5.8212c-0.3076,0.3541 -0.3076,0.9302 0,1.2849c0.3076,0.354 0.8069,0.354 1.1145,0l4.3217,-4.9797l4.3206,4.9797c0.3082,0.354 0.8075,0.354 1.1151,0c0.3076,-0.3547 0.3076,-0.9308 0,-1.2849z" clip-rule="evenodd" fill-rule="evenodd" id="Vector"/>
+  </g>
+ </g>
+</svg>
